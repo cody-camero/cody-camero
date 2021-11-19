@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cody-camero
+- 👀 I’m interested in information security, penetration testing, malware research, and ice hockey.
+- 🌱 I’m currently learning more about APIs and red team tools.
+- 💞️ I’m looking to collaborate on anything that my skills can help with.
